@@ -1,0 +1,31 @@
+﻿Site,Grupo,Busca,Opções,Status,Primeira consulta,Último evento
+booking,Ipanema,A,5,5 opções registradas,não disponível,não disponível
+booking,Ipanema,B,5,5 opções registradas,2026-11-23T15:24:41.306231-03:00,2026-11-23T15:26:36.022081-03:00
+booking,Leblon,A,5,5 opções registradas,2026-11-23T15:32:09.660680-03:00,2026-11-23T15:33:40.322635-03:00
+booking,Leblon,B,5,5 opções registradas,2026-11-23T15:34:01.984408-03:00,2026-11-23T15:34:01.984408-03:00
+booking,Copacabana,A,5,5 opções registradas,2026-11-23T15:36:26.437194-03:00,2026-11-23T16:07:23.491054-03:00
+booking,Copacabana,B,5,5 opções registradas,2026-11-23T15:39:52.989142-03:00,2026-11-23T15:42:22.173766-03:00
+booking,Botafogo,A,5,5 opções registradas,2026-11-23T15:42:54.283173-03:00,2026-11-23T15:44:30.372147-03:00
+booking,Botafogo,B,5,5 opções registradas,2026-11-23T15:44:58.588421-03:00,2026-11-23T15:47:12.947282-03:00
+booking,Flamengo/Catete/Glória,A,5,5 opções registradas,2026-11-23T15:47:42.399793-03:00,2026-11-23T16:13:50.335947-03:00
+booking,Flamengo/Catete/Glória,B,5,5 opções registradas,2026-11-23T15:51:00.437166-03:00,2026-11-23T16:11:21.086632-03:00
+airbnb,Ipanema,A,5,5 opções registradas,2026-11-23T15:06:44.508921-03:00,2026-11-23T15:24:05.667642-03:00
+airbnb,Ipanema,B,5,5 opções registradas,2026-11-23T16:14:14.712445-03:00,2026-11-23T16:18:22.876127-03:00
+airbnb,Leblon,A,5,5 opções registradas,2026-11-23T16:19:19.944795-03:00,2026-11-23T16:25:54.953048-03:00
+airbnb,Leblon,B,5,5 opções registradas,2026-11-23T16:26:24.894220-03:00,2026-11-23T16:31:34.679881-03:00
+airbnb,Copacabana,A,5,5 opções registradas,2026-11-23T15:07:36.143789-03:00,2026-11-23T16:36:53.570807-03:00
+airbnb,Copacabana,B,5,5 opções registradas,2026-11-23T16:37:44.831139-03:00,2026-11-23T16:43:00.685757-03:00
+airbnb,Botafogo,A,5,5 opções registradas,2026-11-23T16:43:30.570523-03:00,2026-11-23T16:48:41.157988-03:00
+airbnb,Botafogo,B,5,5 opções registradas,2026-11-23T16:49:21.961830-03:00,2026-11-23T16:54:28.161227-03:00
+airbnb,Flamengo/Catete/Glória,A,4,4 opções registradas,2026-11-23T16:54:54.506182-03:00,2026-11-23T17:17:05.613414-03:00
+airbnb,Flamengo/Catete/Glória,B,5,5 opções registradas,2026-11-23T17:00:31.089024-03:00,2026-11-23T17:21:33.050358-03:00
+hostelworld,Ipanema,A,5,5 opções registradas,2026-11-23T15:10:26.340517-03:00,2026-11-23T15:31:18.409577-03:00
+hostelworld,Ipanema,B,2,2 opções registradas,2026-11-23T16:03:23.245448-03:00,2026-11-23T16:05:35.670806-03:00
+hostelworld,Leblon,A,1,1 opções registradas,2026-11-23T15:11:28.938808-03:00,2026-11-23T15:31:18.409577-03:00
+hostelworld,Leblon,B,1,1 opções registradas,2026-11-23T16:03:23.245448-03:00,2026-11-23T16:05:35.670806-03:00
+hostelworld,Copacabana,A,1,1 opções registradas,2026-11-23T15:11:28.938808-03:00,2026-11-23T15:31:18.409577-03:00
+hostelworld,Copacabana,B,1,1 opções registradas,2026-11-23T16:03:23.245448-03:00,2026-11-23T16:05:35.670806-03:00
+hostelworld,Botafogo,A,0,página consultada; verificar cobertura e lacunas,2026-11-23T15:11:28.938808-03:00,2026-11-23T15:31:18.409577-03:00
+hostelworld,Botafogo,B,0,página consultada; verificar cobertura e lacunas,2026-11-23T16:03:23.245448-03:00,2026-11-23T16:05:35.670806-03:00
+hostelworld,Flamengo/Catete/Glória,A,1,1 opções registradas,2026-11-23T15:11:28.938808-03:00,2026-11-23T15:31:18.409577-03:00
+hostelworld,Flamengo/Catete/Glória,B,0,página consultada; verificar cobertura e lacunas,2026-11-23T16:03:23.245448-03:00,2026-11-23T16:05:35.670806-03:00
